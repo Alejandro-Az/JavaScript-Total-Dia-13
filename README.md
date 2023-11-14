@@ -32,7 +32,7 @@ ya que se pueden cargar al mismo tiempo que se procesan las demás operaciones.
 
 ### Pantallas de la web
 Página cargando los resultados de las API
-![Captura de pantalla (28)](https://github.com/Alejandro-Az/JavaScript-Total-Dia-13/assets/105530752/c92d1419-6ffa-4c3f-9593-c76447ba6e2b)
+![Captura de pantalla (28)](https://github.com/Alejandro-Az/JavaScript-Total-Dia-13/assets/105530752/b44af5b7-e61b-439f-8244-75651b4090bf)
 
 Página ya cargados los resultados
 ![resultados cargados](https://github.com/Alejandro-Az/JavaScript-Total-Dia-13/assets/105530752/7afac30d-7347-4912-ab30-be3e04104302)
